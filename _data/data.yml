@@ -7,27 +7,25 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Enrique Puente
+    tagline: Systems Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: enrique.puente@gmail.com
+    phone: 213 434 7540
+    timezone: America/Los Angeles Timezone
+    # citizenship: USA/MEX
+    website: esepuente.github.io #do not add http://
+    linkedin: epuente
+    # xing: alandoe
+    github: esePuente
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@esepuente'
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1CVvAwnUmWmaZZ4o1bx-xjKIH-6GWwYS3/view?usp=sharing
 
     languages:
       title: Languages
@@ -35,11 +33,11 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Native
+
+        - idiom: French
+          level: Conversational
 
     interests:
       title: Interests
@@ -47,7 +45,7 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
+        - item: Skiing
           link:
 
         - item: Cooking
@@ -56,18 +54,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Multi-Disciplinary Engineer with 5+ years of experience in Systems and Hybrid Cloud
+      Infrastructure pre sales, 4+ years of experience in Aerospace Systems Design and
+      Analysis. Avid learner, leading at the forefront of technology and innovation.
+      Motivated by collective growth and leveraging technology for the benefit of society.
+      Optimizing for growth, while prioritizing social values. Focused on the process,
+      doing the work, and creating value every day.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Aerospace Engineering
+        university: University of Southern California ✌️
+        time: 2015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,8 +74,30 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: MSc in Engineering Management
+        university: University of Southern California
+        time: 2015 - 2018
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: GradCert in Systems Architecture and Engineering
+        university: University of Southern California
+        time: 2015 - 2018
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Mechnical Engineering
+        university: Monterrey Institute of Technology
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -88,134 +108,184 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Sales Specialist
+        time: 2018 - 2023
+        company: IBM, Costa Mesa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            Dedicated to my client's success, providing a consultative sales approach
+            as thier trusted advisor for all their storage infrastructure needs. Leveraging
+            IBM's innovation, expertise and partner network.
+            - Configured solutions tailored to each client's specific performance,
+              capacity, resiliency, and highly availability requirements.
+            - Demonstrated excellence delivering presentations for our storage portfolio
+              for Block, File and Object solutions. Demonstrating a deep understanding
+              of the technology and its applications in enterprise environments.
+            - Proactively and collaboratively built sales pipeline and identified
+              opportunities for our regional sales team, prioritizing integrity and
+              accountability for a significant increase in revenue and customer satisfaction.
+            - Consistently exceeded my customers' expectations by providing exceptional
+              support, education, and handling of RFPs/RFQs. Through effective relationship
+              management with high-profile clients such as Disney, Allianz, Nelnet, AAA SoCal,
+              Qualcomm, Skechers, Fluor, and General Atomics, I demonstrated partnership along
+              the sales cycle from prospecting to post-sales support.
+          
+      - role: Systems Engineer
+        time: 2018
+        company: Boeing Defense Space and Security, El Segundo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Responsible for developing and executing test plans for in-orbit flight operation
+          scenarios and fault response processes for diverse satellite platforms.
+            - Designed and evaluated test algorithms based on open-loop simulations for the
+              702 SP satellite program, ensuring functional and performance requirements were met.
+            - Collaborated closely with cross-functional teams, including software and hardware
+              engineers, systems architects, and quality assurance professionals, indefying areas
+              for improvement and streamlined the testing processes.
+
+      - role: Systems Engineer Intern
+        time: 2017 - 2018
+        company: Northrop Grumman, Rancho Bernardo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Led system-level testing with Hardware-In-The-Loop simulations for unmanned aircraft
+          missions, ensuring functional and performance requirements and reliability under
+          real-world conditions.
+            - Delivered thorough analysis and testing of complex aerial control systems,
+            identifying and resolving issues before they impacted product quality or delivery
+            timelines. Received recognition for outstanding contributions to the organization
+            such as collateral tools and processes to be leveraged after my internship.
+            - Developed and implemented new tooling for predicting Airworthiness certification
+            costs based on labor hours and MIL-HDBK-516 analysis, cost savings at ~$1M/year.
+
+      - role: Embedded Systems Engineer
+        time: 2016 - 2017
+        company: Tamarisk Labs, Pasadena
+        details: |
+          Led the design and build aspects of the projects, utilizing cutting-edge technologies
+          and industry best practices to ensure high-quality and reliable products. Worked closely
+          with hardware and software engineers, testing teams, and manufacturing partners to ensure
+          seamless integration and on-time delivery. Received recognition for outstanding
+          contributions to each project and the successful launch of new products.
+          
+          Contributed to the successful development of five innovative products, including a
+          Window-Washing Drone, an Ophthalmic Camera, Wearable Technology, and a Self-Balancing
+          Mobility Device. Collaborated with cross-functional teams throughout the entire product
+          lifecycle, from conceptual design to fabrication, system testing, implementation, and support.
+
+      - role: Overhaul Performance Engineer
+        time: 2011 - 2015
+        company: General Electric Aviation, Queretaro
+        details: |
+          Served as the CF34 Engine Overhaul Program Focal, overseeing investigations related to Thrust
+          Restoration, EGT Excedances, and Fuel Flow seasonality. Collaborated closely with cross-platform
+          teams to deliver joint effort analyses and identify opportunities for improvement. Based on NPSS
+          simulations for thermal cycle analysis we accurately assess individual component energy flow and
+          efficiencies, resulting in significant improvements in engine performance and reduced overhaul costs.
+          - Spearheaded the development and implementation of the Intelligent Test Cell Project,
+            a cutting-edge data analytics tool used for engine performance diagnostics and instrument
+            reliability analysis. Leveraged engine and test cell data from GE and third-party shops worldwide
+            to identify trends and anomalies, resulting in savings of $37M/year through streamlined re-tests,
+            optimized processes, and enhanced customer satisfaction.
+          - Analyzed engine and test cell data from GE and third-party shops worldwide, resulting improved
+            customer satisfaction, and reduced re-tests expenditure and rework labor. Estimated savings: $37M/year.
+          - Managed a team of 4 engineers working closely with cross-functional stakeholders to ensure on-time
+            EGT performance guarantee delivery.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Assets Portfolio Manager
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: A web based application implementing Modern Portfolio Techniques for managing portfolios.
+          The serverless application optimizes asset allocation on a stock/bond investment portfolio.
+          Active management and perfromance tracking of factor, fundamental or custom strategies optimized
+          for alpha, beta, SR. The Web-based application is currently being tested on AWS ECS, with data
+          and brokerage services through APIs.
 
-      - title: DevStudio
+      - title: 6DoF Fixed Wing Vehicle Simulator and Control
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Control and simulation system for an aircraft capable of moving with six degrees of freedom."
 
-      - title: Tempo
+      - title: Real Option Valuation Analysis
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Financial value of real options used to assess options related to starting, stopping, or restarting production lines or services for commercial aircraft"
 
-      - title: Atom
+      - title: Self-Balancing Wheelchair
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Electro-mechanical system that leveraged advanced sensor fusion algorithms and control allowing a stable,
+        balanced mobility device for users to navigate and displace in an innovative and efficient manner"
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Certifications
     contributions:
-      - title: Tempo
+      - title: AWS Certified Solutions Architect
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Validates proficiency in designing and deploying scalable, highly available, and fault-tolerant systems on AWS"
 
-      - title: Atom
+      - title: AWS Certified Cloud Practitioner
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Fundamental understanding of IT services and their uses in the AWS Cloud."
 
-      - title: Delta
+      - title: IBM Technical Specialist Profession Certification - Experienced
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Development of high quality solutions that deliver business value to the client. They ensure solutions meet business & technical requirements
+        are technically viable in the client environment."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: IBM Data Science Professional Certificate
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: "Demonstrated ability to solve for real-world problems. Apply Data Science methodology - work with Jupyter notebooks - create Python apps - access relational databases using SQL & Python"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: IBM Global Sales School
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        tagline: "Completed IBM's Global Sales School and developed the skills needed to grow revenue by delivering differentiated client experiences"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: GE Six Sigma Green Belt
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Demonstrated proficiency in Green Belt Lean Six Sigma Methodology and applied the tools and techniques to a business project."
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python + Pandas
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Linux & Bash
+        level: 50%
+
+      - name: AWS CDK
+        level: 50%
+
+      - name: Matlab & Mathematica
+        level: 80%
+
+      - name: Solidworks
+        level: 80%
+
+      - name: MS Office & VBA
+        level: 95%
