@@ -281,8 +281,11 @@ skills:
       - name: AWS CDK
         level: 50%
 
-      - name: Matlab & Mathematica
-        level: 80%
+      - name: Matlab
+        level: 70%
+
+      - name: Mathematica
+        level: 90%
 
       - name: Solidworks
         level: 80%
