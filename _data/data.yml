@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Enrique Puente
     tagline: Systems Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: IMG_7540.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: enrique.puente@gmail.com
@@ -25,7 +25,7 @@ sidebar:
     # bitbucket:
     # twitter: '@esepuente'
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1CVvAwnUmWmaZZ4o1bx-xjKIH-6GWwYS3/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1e4bc7FQ7o0pyiy3Z1TMFrsZ7B8Eh65wz/view?usp=sharing
 
     languages:
       title: Languages
@@ -42,14 +42,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 🧗 ⛷️ 🏄🏼‍♂️ 🏌🏻 🚴🏻
-          # link:
+        - item: Gravel Biking 🚴🏻
+          link: https://www.strava.com/athletes/enrique_puente
 
-        # - item: Skiing
-        #   link:
+        - item: Ski ⛷️
+          link: https://www.strava.com/athletes/enrique_puente
 
-        # - item: Cooking
-        #   link:
+        - item: Golf 🏌🏻
+          link:
+
+        - item: Cooking 👨‍🍳
+          link:
 
 career-profile:
     title: Career Profile
@@ -67,45 +70,25 @@ education:
         university: University of Southern California ✌️
         time: 2015 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Describe your study here lorem ipsum dolor sit amet.
             - Bullet point
       - degree: MSc in Engineering Management
         university: University of Southern California
         time: 2015 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Describe your study here lorem ipsum dolor sit amet
             - Bullet point
       - degree: GradCert in Systems Architecture and Engineering
         university: University of Southern California
         time: 2015 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          Describe your study here lorem ipsum dolor sit amet
             - Bullet point
       - degree: BSc in Mechnical Engineering
         university: Monterrey Institute of Technology
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
             - Bullet point
 experiences:
     title: Experience
@@ -144,7 +127,7 @@ experiences:
               for improvement and streamlined the testing processes.
 
       - role: Systems Engineer Intern
-        time: 2017 - 2018
+        time: 2017
         company: Northrop Grumman, Rancho Bernardo
         details: |
           Led system-level testing with Hardware-In-The-Loop simulations for unmanned aircraft
@@ -161,7 +144,7 @@ experiences:
         time: 2016 - 2017
         company: Tamarisk Labs, Pasadena
         details: |
-          Led the design and build aspects of the projects, utilizing cutting-edge technologies
+          Led the design and build aspects of the projects, using cutting-edge technologies
           and industry best practices to ensure high-quality and reliable products. Worked closely
           with hardware and software engineers, testing teams, and manufacturing partners to ensure
           seamless integration and on-time delivery. Received recognition for outstanding
@@ -172,15 +155,16 @@ experiences:
           Mobility Device. Collaborated with cross-functional teams throughout the entire product
           lifecycle, from conceptual design to fabrication, system testing, implementation, and support.
 
-      - role: Overhaul Performance Engineer
+      - role: Performance Engineer
         time: 2011 - 2015
         company: General Electric Aviation, Queretaro
         details: |
           Served as the CF34 Engine Overhaul Program Focal, overseeing investigations related to Thrust
           Restoration, EGT Excedances, and Fuel Flow seasonality. Collaborated closely with cross-platform
-          teams to deliver joint effort analyses and identify opportunities for improvement. Based on NPSS
-          simulations for thermal cycle analysis we accurately assess individual component energy flow and
-          efficiencies, resulting in significant improvements in engine performance and reduced overhaul costs.
+          teams to deliver joint effort analyses and identify opportunities for improvement. Used NPSS
+          (Numerical Propulsion System Simulation) for thermal cycle analysis to accurately assess
+          component energy flow and efficiency, resulting in significant improvements in engine performance
+          and reduced overhaul costs for MRO shops and on time delivery.
           - Spearheaded the development and implementation of the Intelligent Test Cell Project,
             a cutting-edge data analytics tool used for engine performance diagnostics and instrument
             reliability analysis. Leveraged engine and test cell data from GE and third-party shops worldwide
@@ -196,11 +180,12 @@ projects:
     assignments:
       - title: Assets Portfolio Manager
         link: "#hook"
-        tagline: A web based application implementing Modern Portfolio Techniques for managing portfolios.
-          The serverless application optimizes asset allocation on a stock/bond investment portfolio.
-          Active management and perfromance tracking of factor, fundamental or custom strategies optimized
-          for alpha, beta, SR. The Web-based application is currently being tested on AWS ECS, with data
-          and brokerage services through APIs.
+        tagline: A web application implementing Modern Portfolio Techniques for managing customized portfolios.
+          The serverless platfrom optimizes asset allocation on a stock and ETFs investment portfolio, then
+          delivers a simulation (backtest) of the strategy with perfromance metrics such as alpha, beta, SR.
+          The dashboard is built on the Streamlit framework and delivered through AWS ECS service behind an
+          Application Load Balancer. The automatic rebalancing is delivered through schduled Lambda functions.
+          Data and brokerage services through Alpaca Markets Trading API.
 
       - title: 6DoF Fixed Wing Vehicle Simulator and Control
         link: "#"
@@ -219,24 +204,24 @@ oss:
     title: Certifications
     contributions:
       - title: AWS Certified Solutions Architect
-        link: "#"
+        link: "https://www.credly.com/badges/3a6ac169-1e29-4ad0-b50d-efe1679ce62a/public_url"
         tagline: "Validates proficiency in designing and deploying scalable, highly available, and fault-tolerant systems on AWS"
 
       - title: AWS Certified Cloud Practitioner
-        link: "#"
+        link: "https://www.credly.com/badges/ef380219-a168-4476-af93-d7ceefe1551c/public_url"
         tagline: "Fundamental understanding of IT services and their uses in the AWS Cloud."
 
       - title: IBM Technical Specialist Profession Certification - Experienced
-        link: "#"
+        link: "https://www.credly.com/badges/d4f8b612-b0f4-4922-9097-57aaa75c0588/public_url"
         tagline: "Development of high quality solutions that deliver business value to the client. They ensure solutions meet business & technical requirements
         are technically viable in the client environment."
 
       - title: IBM Data Science Professional Certificate
-        link: "#"
+        link: "https://www.credly.com/badges/143accc0-8078-48ad-acb0-a1950de53220/public_url"
         tagline: "Demonstrated ability to solve for real-world problems. Apply Data Science methodology - work with Jupyter notebooks - create Python apps - access relational databases using SQL & Python"
 
       - title: IBM Global Sales School
-        link: "#"
+        link: "https://www.credly.com/badges/fb692e0a-ee84-4329-900d-ae073919e4df/public_url"
         tagline: "Completed IBM's Global Sales School and developed the skills needed to grow revenue by delivering differentiated client experiences"
 
       - title: GE Six Sigma Green Belt
@@ -273,7 +258,7 @@ skills:
         level: 90%
 
       - name: SQL
-        level: 60%
+        level: 75%
 
       - name: Linux & Bash
         level: 50%
