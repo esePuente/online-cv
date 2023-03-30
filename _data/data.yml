@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Enrique Puente
     tagline: Systems Engineer
-    avatar: IMG_7540.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: IMG_7665.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: enrique.puente@gmail.com
@@ -67,7 +67,7 @@ education:
     title: Education
     info:
       - degree: MSc in Aerospace Engineering
-        university: University of Southern California ✌️
+        university: University of Southern California
         time: 2015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet.
@@ -94,7 +94,7 @@ experiences:
     title: Experience
     info:
       - role: Technical Sales Specialist
-        time: 2018 - 2023
+        time: August 2018 - March 2023
         company: IBM, Costa Mesa
         details: |
             Dedicated to my client's success, providing a consultative sales approach
@@ -115,7 +115,7 @@ experiences:
               the sales cycle from prospecting to post-sales support.
           
       - role: Systems Engineer
-        time: 2018
+        time: January 2018 - August 2018
         company: Boeing Defense Space and Security, El Segundo
         details: |
           Responsible for developing and executing test plans for in-orbit flight operation
@@ -127,7 +127,7 @@ experiences:
               for improvement and streamlined the testing processes.
 
       - role: Systems Engineer Intern
-        time: 2017
+        time: May 2017 - August 2017
         company: Northrop Grumman, Rancho Bernardo
         details: |
           Led system-level testing with Hardware-In-The-Loop simulations for unmanned aircraft
@@ -141,7 +141,7 @@ experiences:
             costs based on labor hours and MIL-HDBK-516 analysis, cost savings at ~$1M/year.
 
       - role: Embedded Systems Engineer
-        time: 2016 - 2017
+        time: July 2016 - May 2017
         company: Tamarisk Labs, Pasadena
         details: |
           Led the design and build aspects of the projects, using cutting-edge technologies
@@ -156,7 +156,7 @@ experiences:
           lifecycle, from conceptual design to fabrication, system testing, implementation, and support.
 
       - role: Performance Engineer
-        time: 2011 - 2015
+        time: March 2011 - August 2015
         company: General Electric Aviation, Queretaro
         details: |
           Served as the CF34 Engine Overhaul Program Focal, overseeing investigations related to Thrust
@@ -180,7 +180,7 @@ projects:
     assignments:
       - title: Assets Portfolio Manager
         link: "#hook"
-        tagline: A web application implementing Modern Portfolio Techniques for managing customized portfolios.
+        tagline: A web application implementing Modern Portfolio Theory for managing customized portfolios.
           The serverless platfrom optimizes asset allocation on a stock and ETFs investment portfolio, then
           delivers a simulation (backtest) of the strategy with perfromance metrics such as alpha, beta, SR.
           The dashboard is built on the Streamlit framework and delivered through AWS ECS service behind an
