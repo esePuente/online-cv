@@ -25,7 +25,8 @@ sidebar:
     # bitbucket:
     # twitter: '@esepuente'
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1e4bc7FQ7o0pyiy3Z1TMFrsZ7B8Eh65wz/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1ZYvtBMNCVn_NJ5O_Nnatk0w08gxma3Rr/view?usp=sharing
+
 
     languages:
       title: Languages
@@ -57,34 +58,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Multi-Disciplinary Engineer with 5+ years of experience in Systems and Hybrid Cloud
-      Infrastructure pre sales, 4+ years of experience in Aerospace Systems Design and
-      Analysis. Avid learner, leading at the forefront of technology and innovation.
-      Motivated by collective growth and leveraging technology for the benefit of society.
-      Optimizing for growth, while prioritizing social values. Focused on the process,
-      doing the work, and creating value every day.
+      Value-driven Sales Engineer with over 12+ years of multi-disciplinary experience in high-tech enterprises, 
+      driving the development and distribution of innovative products with high market adoption. Identifies and 
+      pursues new business opportunities that align with customer goals and fuel revenue growth. Defines and 
+      validates product requirements, conducts market research, and collaborates with cross-functional teams to 
+      successfully deliver customer-tailored solutions. Possesses the expertise to lead technical teams and 
+      execute high-impact projects in fluid, fast-paced environments.
 education:
     title: Education
     info:
-      - degree: MSc in Aerospace Engineering
+      - degree: MS in Aerospace Engineering
         university: University of Southern California
         time: 2015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet.
             - Bullet point
-      - degree: MSc in Engineering Management
+      - degree: MS in Engineering Management
         university: University of Southern California
         time: 2015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet
             - Bullet point
-      - degree: GradCert in Systems Architecture and Engineering
+      - degree: Graduate Certificate Systems Architecture and Engineering
         university: University of Southern California
         time: 2015 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet
             - Bullet point
-      - degree: BSc in Mechnical Engineering
+      - degree: BS Mechnical Engineering
         university: Monterrey Institute of Technology
         time: 2007 - 2011
         details: |
@@ -98,21 +99,18 @@ experiences:
         company: IBM, Costa Mesa
         details: |
             Dedicated to my client's success, providing a consultative sales approach
-            as thier trusted advisor for all their storage infrastructure needs. Leveraging
+            as their trusted advisor for all storage infrastructure needs. Leveraging
             IBM's innovation, expertise and partner network.
-            - Configured solutions tailored to each client's specific performance,
-              capacity, resiliency, and highly availability requirements.
-            - Demonstrated excellence delivering presentations for our storage portfolio
-              for Block, File and Object solutions. Demonstrating a deep understanding
-              of the technology and its applications in enterprise environments.
-            - Proactively and collaboratively built sales pipeline and identified
-              opportunities for our regional sales team, prioritizing integrity and
-              accountability for a significant increase in revenue and customer satisfaction.
-            - Consistently exceeded my customers' expectations by providing exceptional
-              support, education, and handling of RFPs/RFQs. Through effective relationship
-              management with high-profile clients such as Disney, Allianz, Nelnet, AAA SoCal,
-              Qualcomm, Skechers, Fluor, and General Atomics, I demonstrated partnership along
-              the sales cycle from prospecting to post-sales support.
+            - Delivered 150+ storage portfolio presentations growing revenue by an average 
+            20% and 60% sales pipeline demonstrating a deep understanding of the technology 
+            and its impact on the customer's challenges.
+            - Identified, recommended, and tailored a 2.5PB Block Storage solution for an 
+            enterprise client that eliminated excessive maintenance and complexity which 
+            yielded $3M over three years of cost savings vs. existing on-prem solution.
+            - Managed relationships with high-profile clients such as Disney, Allianz, 
+            Nelnet, AAA SoCal, Qualcomm, Sketchers, Fluor, and General Atomics, exceeding 
+            their expectations and handling of CritSits and RFQs resulting in a 9.5 NPS.
+
           
       - role: Systems Engineer
         time: January 2018 - August 2018
@@ -120,13 +118,15 @@ experiences:
         details: |
           Responsible for developing and executing test plans for in-orbit flight operation
           scenarios and fault response processes for diverse satellite platforms.
-            - Designed and evaluated test algorithms based on open-loop simulations for the
-              702 SP satellite program, ensuring functional and performance requirements were met.
-            - Collaborated closely with cross-functional teams, including software and hardware
-              engineers, systems architects, and quality assurance professionals, indefying areas
-              for improvement and streamlined the testing processes.
+          - Developed and executed test plans for in-orbit flight operation scenarios and 
+          fault response processes for the 702 SP satellite platforms ensuring functional 
+          and performance requirements were met. 
+          - Collaborated with sensor and actuation software and hardware engineers, systems 
+          architects, and quality assurance professionals to identify opportunities for 
+          streamlining testing processes, reducing times by 30%.
 
-      - role: Systems Engineer Intern
+
+      - role: Systems Engineering Intern
         time: May 2017 - August 2017
         company: Northrop Grumman, Rancho Bernardo
         details: |
@@ -170,7 +170,7 @@ experiences:
             reliability analysis. Leveraged engine and test cell data from GE and third-party shops worldwide
             to identify trends and anomalies, resulting in savings of $37M/year through streamlined re-tests,
             optimized processes, and enhanced customer satisfaction.
-          - Analyzed engine and test cell data from GE and third-party shops worldwide, resulting improved
+          - Analyzed engine and test cell data from GE and third-party shops worldwide, resulting in improved
             customer satisfaction, and reduced re-tests expenditure and rework labor. Estimated savings: $37M/year.
           - Managed a team of 4 engineers working closely with cross-functional stakeholders to ensure on-time
             EGT performance guarantee delivery.
